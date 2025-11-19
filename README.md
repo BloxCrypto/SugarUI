@@ -139,7 +139,7 @@ InfoSection:NewButton({
 # Example Script
 
 ```lua
-local SugarLibrary = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Yomkav2/Sugar-UI/refs/heads/main/Source'))();
+local SugarLibrary = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/BloxCrypto/SugarUI/refs/heads/main/Source'))();
 local Notification = SugarLibrary.Notification();
 
 Notification.new({
@@ -353,5 +353,5 @@ InfoSection:NewButton({
 })
 ```
 # Credits
-* **Original UI by CATSUS**
-* **Modified by Yomka (me)**
+* **Original UI by Blueflare**
+* **Modified by Leviform_ (me)**
