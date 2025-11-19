@@ -342,8 +342,8 @@ Section:NewDropdown({
 	end,
 })
 
-InfoSection:NewTitle('UI by CATSUS')
-InfoSection:NewTitle('Modified by Yomka')
+InfoSection:NewTitle('UI by Blueflare')
+InfoSection:NewTitle('Modified by Leviform_')
 InfoSection:NewButton({
 
 	Title = "Discord",
